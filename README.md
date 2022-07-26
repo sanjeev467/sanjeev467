@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sanjeev467
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking or internships
-- 📫 How to reach me ...instagram profile-->s_a_n_j_e_e_V__0
+- 💞️ I’m looking for internships
+- 📫 How to reach me ...instagram profile-->sanjeevoidd
 
 <!---
 sanjeev467/sanjeev467 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
