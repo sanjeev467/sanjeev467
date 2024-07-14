@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Pandey</h1>
 <h3 align="center">A frontend wizard from India, turning coffee into code and pixels into perfection. Forever fixing that "one last bug" while wondering if dark mode is the secret to life.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeev467&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeev467" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjeev467&label=Profile%20views&color=0e75b6&style=flat" alt="sanjeev467" /> </p> -->
+
 
 - 🔭 I’m currently working on **My Portfolio!!**
 
