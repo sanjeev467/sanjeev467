@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Front End Projects**
 
-- 👨‍💻 Portfolio [https://sanjeevpandey.vercel.app/](https://sanjeevpandey.vercel.app/)
+- 👨‍💻 Website **<a href="https://sanjeevpandey.vercel.app/"> Portfolio</a>**
 
 - 💬 Ask me about **Front-End Development, DSA**
 
